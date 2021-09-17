@@ -4,6 +4,13 @@
 
 .vscode/
 _tests_/
+.gitignore
+.buckconfig
+.editorconfig
+.prettierrc.js
+.watchmanconfig
+.babel.config.js
+.metro.config.js
 
 # Xcode
 #
