@@ -9,8 +9,11 @@ _tests_/
 .editorconfig
 .prettierrc.js
 .watchmanconfig
-.babel.config.js
-.metro.config.js
+babel.config.js
+metro.config.js
+.eslintrc.js
+.flowconfig
+.gitattributes
 
 # Xcode
 #
